@@ -1,0 +1,6 @@
+{
+  "name": "ReachInbox Email Job Scheduler",
+  "description": "Production-grade email job scheduler with BullMQ, Redis, Ethereal SMTP, concurrency control, rate limiting, and real-time dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
